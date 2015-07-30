@@ -1,6 +1,0 @@
-04 Juni 2015
-   released version 1.0.0 of myDisPslash
-
-     Change log:
-        -Added: Anzeige einer Uhr
-
