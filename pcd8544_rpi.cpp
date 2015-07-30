@@ -45,7 +45,6 @@ Lesser General Public License for more details.
 #include <linux/if.h>   /* struct ifreq */
 #include <sys/stat.h>
 #include <time.h>
-#include "networkstats.h"
 #include <string.h>
 
 //#include "timertest.h"

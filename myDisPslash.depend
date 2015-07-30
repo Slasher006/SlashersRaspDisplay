@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1433404797 source:/home/slasher006/PCD8544/cpu_show/PCD8544.c
+	<wiringPi.h>
+	"PCD8544.h"
+
+1433404802 /home/slasher006/PCD8544/cpu_show/PCD8544.h
+	<stdint.h>
+
+1433756389 source:/home/slasher006/PCD8544/cpu_show/pcd8544_rpi.c
+	<wiringPi.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/sysinfo.h>
+	"PCD8544.h"
+	"unistd.h"
+	<sys/ioctl.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<linux/if.h>
+	<sys/stat.h>
+	<time.h>
+
+1433404797 source:/home/slasher006/myCBproj/myDisPslashcpp/PCD8544.cpp
+	<wiringPi.h>
+	"PCD8544.h"
+
+1433404802 /home/slasher006/myCBproj/myDisPslashcpp/PCD8544.h
+	<stdint.h>
+
+1436791112 source:/home/slasher006/myCBproj/myDisPslashcpp/pcd8544_rpi.cpp
+	<wiringPi.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<sys/sysinfo.h>
+	"PCD8544.h"
+	"unistd.h"
+	<sys/ioctl.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<linux/if.h>
+	<sys/stat.h>
+	<time.h>
+	"networkstats.h"
+	<string.h>
+
+1435941799 source:/home/slasher006/myCBproj/myDisPslashcpp/src/timertest.cpp
+	"timertest.h"
+	<stdio.h>
+	<time.h>
+
+1435941841 /home/slasher006/myCBproj/myDisPslashcpp/include/timertest.h
+
+1436091853 source:/home/slasher006/myCBproj/myDisPslashcpp/src/networkstats.cpp
+	"networkstats.h"
+	<math.h>
+	<net/if.h>
+
+1436090622 /home/slasher006/myCBproj/myDisPslashcpp/include/networkstats.h
+
