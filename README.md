@@ -4,6 +4,6 @@ RaspberryPi 2
 *Building*
 Dependency = wiringPi
 
-Change Lines in compile.sh to match your Paths
+Change Lines in compile.sh and LCDslash.service to match your Paths
 
 do ./compile.sh
