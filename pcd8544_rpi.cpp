@@ -64,7 +64,7 @@ int contrast = 45;
 
 int main (void)
 {
-    networkstats nwstats;
+  //networkstats nwstats;
     //timertest ymum;
 
   /*
