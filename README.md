@@ -1,4 +1,4 @@
-Dieses Project befasst sich mit dem Nokia Display fuer den
+Dieses ProjeKt befasst sich mit dem Nokia Display fuer den
 RaspberryPi 2
 
 *Building*
