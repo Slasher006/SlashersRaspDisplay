@@ -4,4 +4,6 @@ RaspberryPi 2
 *Building*
 Dependency = wiringPi
 
+Change Lines in compile.sh to match your Paths
+
 do ./compile.sh

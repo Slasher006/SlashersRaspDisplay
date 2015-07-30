@@ -1,0 +1,11 @@
+[Unit]
+Description=LCDDisplay-Daemon by Slasher006
+#Requires=multi-user.target
+After=multi-user.target
+#After=default.target
+[Service]
+Type=oneshot
+ExecStart=/home/slasher006/slashdispshow
+RemainAfterExit=yes
+[Install]
+WantedBy=multi-user.target
